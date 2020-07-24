@@ -2,7 +2,7 @@
 
 FROM alpine
 
-RUN apk add -v --update bash curl python py-pip jq git file
+RUN apk add -v --update bash curl python3 py-pip jq git file
 
 ENV VERSION 1.18.104
 
