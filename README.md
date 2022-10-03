@@ -12,11 +12,11 @@ docker pull timzu/awscli
 ## version
 
 ```
-ENV VERSION 1.25.85
+ENV VERSION 1.25.86
 ```
 
 ## latest
 
 ```
-ENV LATEST 1.25.85
+ENV LATEST 1.25.86
 ```
